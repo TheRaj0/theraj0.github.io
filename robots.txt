@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://theraj0.github.io/sitemap_index.xml
+Sitemap: https://xn--w5b3b1b.xn--45bl4db.xn--54b7fta0cc/sitemap.xml
