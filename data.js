@@ -21,6 +21,13 @@ export const projects = [
         buttontext: "Visit",
     },
     {
+        name: "Map Projections",
+        details: "This is a web app that takes a equirectangular earth map and changes the center point and rotation to create a new map.",
+        imagesrc: "./assets/projects/dynamic_map.jpg",
+        projectlink: "https://theraj0.github.io/dynamic_map",
+        buttontext: "Visit",
+    },
+    {
         name: "Javascript Websites",
         details: "This is a side project that is specifically designed for PC users not mobile users. It has many of the javascript canvas animation projects along with other side projects made using html, css and js that I made.",
         imagesrc: "./assets/projects/javascript_web_apps.jpg",
