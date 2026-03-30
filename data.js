@@ -1,12 +1,5 @@
 export const projects = [
     {
-        name: "Messages",
-        details: "Connect with others in a chat room. You can create your own account and chat with any other user anytime. The UI is responsive for all kinds of devices.",
-        imagesrc: "./assets/projects/messages.jpg",
-        projectlink: "https://theraj0.github.io/messages",
-        buttontext: "Visit",
-    },
-    {
         name: "Organic Reaction App",
         details: "This web application can help you find the reactions needed to convert one organic compound into any other organic compound. The design is simple and elegant made for simple use.",
         imagesrc: "./assets/projects/organic_chemistry.jpg",
@@ -25,6 +18,13 @@ export const projects = [
         details: "This is a web app that takes a equirectangular earth map and changes the center point and rotation to create a new map. You can also try various projection algorithms to modify our earth.",
         imagesrc: "./assets/projects/dynamic_map.jpg",
         projectlink: "https://theraj0.github.io/dynamic_map",
+        buttontext: "Visit",
+    },
+    {
+        name: "Messages",
+        details: "Connect with others in a chat room. You can create your own account and chat with any other user anytime. The UI is responsive for all kinds of devices.",
+        imagesrc: "./assets/projects/messages.jpg",
+        projectlink: "https://theraj0.github.io/messages",
         buttontext: "Visit",
     },
     {
@@ -54,11 +54,5 @@ export const skills = [
         title: "Creative & Multimedia Tools",
         text: `I create digital content using ~~Unity~ for game development, ~~Blender~ for 3D modeling, 
         ~~Canva~ for design, and ~~Kdenlive~ for video editing.`
-    },
-    {
-        title: "Pentesting & Security",
-        text: `I am learning ~~Reconnaissance~, ~~Traffic Analysis~, ~~Vulnerability Testing~, 
-               and ~~System Hardening~ in controlled environments using ~~Kali Linux~ and other tools. 
-               I enjoy exploring how systems work and improving basic ~~Security~ skills.`
     },
 ]
