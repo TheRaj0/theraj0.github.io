@@ -22,7 +22,7 @@ export const projects = [
     },
     {
         name: "Map Projections",
-        details: "This is a web app that takes a equirectangular earth map and changes the center point and rotation to create a new map.",
+        details: "This is a web app that takes a equirectangular earth map and changes the center point and rotation to create a new map. You can also try various projection algorithms to modify our earth.",
         imagesrc: "./assets/projects/dynamic_map.jpg",
         projectlink: "https://theraj0.github.io/dynamic_map",
         buttontext: "Visit",
